@@ -1,9 +1,6 @@
-# she-can-foundation-form
-Simple form created for She Can Foundation Internship task
-
 # She Can Foundation Form
 
-This project is a simple web form created as part of the Full Stack Development Internship Task.
+This project is a simple web form created as part of the Full Stack Development Internship Task by She Can Foundation.
 
 ## Features
 
